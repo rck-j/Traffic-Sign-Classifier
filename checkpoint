@@ -1,0 +1,2 @@
+model_checkpoint_path: "kinda_vgg"
+all_model_checkpoint_paths: "kinda_vgg"
